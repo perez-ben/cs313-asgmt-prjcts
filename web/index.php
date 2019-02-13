@@ -1,4 +1,7 @@
-<?php include ("header.php") ?>
+<?php 
+include 'header.php';
+include 'homepage.css'; 
+?>
 
       <img src="trees.jpg" alt="branches">
       <div>
