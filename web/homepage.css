@@ -6,6 +6,7 @@
   }
 
 img {
+    display: block;
     border-radius: 8px;
     max-width: 70%;
     margin-left: auto;
