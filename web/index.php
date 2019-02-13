@@ -1,6 +1,6 @@
 <?php include ("header.php") ?>
 
-      <img src="trees.jpg" alt="branches"
+      <img src="trees.jpg" alt="branches">
       <div>
 	<h1>Roots, Trunks, and Branches</h1>
 	<p> Family history is a very important part of our identity. Many
