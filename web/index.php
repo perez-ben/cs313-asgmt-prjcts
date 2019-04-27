@@ -13,7 +13,7 @@
 	over the past decade. Understanding where my ancestors originate 
 	can help answer many questions. I hope to identify some good resources
 	to help others find their roots so they can be a trunk that grows
-	branches.</p>
+	branches. Do you know your roots?</p>
 
 </div> 
 	
