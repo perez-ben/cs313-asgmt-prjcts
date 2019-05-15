@@ -5,6 +5,13 @@
     border: 15;
   }
 
+@font-face {
+    font-family: 'Modern Serif Eroded';
+    src: url(Modern-Serif-Eroded.woff) format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 img {
     display: block;
     border-radius: 10px;
