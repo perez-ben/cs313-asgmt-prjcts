@@ -3,15 +3,13 @@
 <style>
 <?php include 'homepage.css'; ?>
 </style>
-
-      <img src="trees.jpg" alt="branches">
-      <div>
-	<h1>Innovative Resource Specialist in Higher Ed Tech</h1>
-	<p> I love my job and I love working in higher education. I am on a path
-          to create an application/program that will add relevant data to
-          curriculum analytics that will revolutionize institutional effectiveness.
-          One of my </p>
-
-</div> 
+    <div class="main page">
+        <h1>Software Engineer. Data. Solutions.</h1>
+        <p> I love my job and I love working in higher education. I am always
+            looking to improve and innovate higher education technology to add
+            relevant data to curriculum analytics and revolutionize institutional
+            effectiveness.
+        </p>
+    </div>
 	
 <?php include ("footer.php"); ?>
