@@ -40,9 +40,8 @@ body {
 }
 
 .enter {
-    align-items: center;
     font-family: "Sketchalot";
-    font-size: 24px;
+    font-size: 18px;
     padding: 15px 25px;
     text-align: center;
     background-color: #1b1e21;
@@ -58,6 +57,10 @@ body {
     background-color: aliceblue;
     color: #1b1e21;
     border: 2px solid #0fac82;
+}
+
+.button_style {
+    text-align: center;
 }
 
 p {

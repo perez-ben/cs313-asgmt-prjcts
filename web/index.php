@@ -4,14 +4,16 @@
 <?php include 'homepage.css'; ?>
 </style>
 <body>
-    <div class="main page">
+    <div class="main_page">
         <h1>Software Engineer. Data. Solutions.</h1>
         <p> I love my job and I love working in higher education. I am always
             looking to improve and innovate higher education technology to add
             relevant data to curriculum analytics and revolutionize institutional
             effectiveness.
         </p>
-        <a href="#" class="enter" type="button">Learn More</a>
+        <div class="button_style">
+            <a hre f="#" class="enter" type="button">Explore</a>
+        </div>
     </div>
 </body>
 </html>
