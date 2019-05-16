@@ -40,6 +40,8 @@ body {
 }
 
 .enter {
+    display: block;
+    margin: auto;
     font-family: "Sketchalot";
     font-size: 18px;
     padding: 15px 25px;
