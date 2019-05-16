@@ -10,7 +10,7 @@
             relevant data to curriculum analytics and revolutionize institutional
             effectiveness.
         </p>
-        <button type="button" onclick="">Learn More</button>
+        <button class="enter" type="button" onclick="">Learn More</button>
     </div>
 	
 <?php include ("footer.php"); ?>

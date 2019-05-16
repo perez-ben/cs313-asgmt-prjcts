@@ -12,6 +12,13 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'Sketchalot';
+    src: url(Sketchalot.woff) format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 img {
     display: block;
     border-radius: 10px;
@@ -32,6 +39,10 @@ body {
     background-color: #2adfaa;
 }
 
+.enter {
+    font-family: "Sketchalot"
+    color: #1b1e21;
+}
 p {
     font-family: "Verdana","Arial","Helvetica",sans-serif;
 }
