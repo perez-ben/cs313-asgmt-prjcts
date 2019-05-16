@@ -1,8 +1,9 @@
-<?php include 'header.php'; ?>
-
+<!DOCTYPE html>
+<html>
 <style>
 <?php include 'homepage.css'; ?>
 </style>
+<body>
     <div class="main page">
         <h1>Software Engineer. Data. Solutions.</h1>
         <p> I love my job and I love working in higher education. I am always
@@ -12,5 +13,6 @@
         </p>
         <button class="enter" type="button" onclick="">Learn More</button>
     </div>
-	
+</body>
+</html>
 <?php include ("footer.php"); ?>
