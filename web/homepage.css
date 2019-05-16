@@ -41,8 +41,15 @@ body {
 
 .enter {
     font-family: "Sketchalot";
-    color: #1b1e21;
+    font-size: 30px;
+    padding: 15px 25px;
+    text-align: center;
+    background-color: #1b1e21;
+    color: aliceblue;
+    cursor: pointer;
+    margin: auto;
 }
+
 p {
     font-family: "Verdana","Arial","Helvetica",sans-serif;
 }
