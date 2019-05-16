@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang=""en-US">
 <style>
 <?php include 'homepage.css'; ?>
 </style>
