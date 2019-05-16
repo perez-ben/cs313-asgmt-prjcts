@@ -21,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/homepage.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="535">
-              <caret line="37" column="6" lean-forward="true" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+            <state relative-caret-position="565">
+              <caret line="39" column="1" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -114,7 +114,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557971752506</updated>
-      <workItem from="1557971755425" duration="7511000" />
+      <workItem from="1557971755425" duration="7549000" />
     </task>
     <task id="LOCAL-00001" summary="adjusting button title, centering button by including it in a div, and changing font size">
       <created>1558037801205</created>
@@ -127,7 +127,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7511000" />
+    <option name="totallyTimeSpent" value="7549000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3862" y="294" width="1400" height="995" extended-state="0" />
@@ -171,8 +171,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/homepage.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
-          <caret line="37" column="6" lean-forward="true" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+        <state relative-caret-position="565">
+          <caret line="39" column="1" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
         </state>
       </provider>
     </entry>
