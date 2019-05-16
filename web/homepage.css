@@ -40,7 +40,6 @@ body {
 }
 
 .enter {
-    display: flex;
     align-items: center;
     font-family: "Sketchalot";
     font-size: 24px;
