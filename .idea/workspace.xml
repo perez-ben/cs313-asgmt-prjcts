@@ -14,8 +14,28 @@
       <executable />
     </execution>
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/homepage.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/web/homepage.css" />
+      </list>
+    </option>
   </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
@@ -29,8 +49,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="3915" />
-    <option name="y" value="352" />
+    <option name="x" value="3872" />
+    <option name="y" value="337" />
     <option name="width" value="1400" />
     <option name="height" value="995" />
   </component>
@@ -40,10 +60,26 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cs313-asgmt-prjcts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs313-asgmt-prjcts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cs313-asgmt-prjcts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs313-asgmt-prjcts" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -71,15 +107,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557971752506</updated>
-      <workItem from="1557971755425" duration="1063000" />
+      <workItem from="1557971755425" duration="1549000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1063000" />
+    <option name="totallyTimeSpent" value="1549000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="3915" y="352" width="1400" height="995" extended-state="0" />
+    <frame x="3872" y="337" width="1400" height="995" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -105,5 +141,14 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web/homepage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
