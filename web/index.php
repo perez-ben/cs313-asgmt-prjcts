@@ -11,7 +11,7 @@
             relevant data to curriculum analytics and revolutionize institutional
             effectiveness.
         </p>
-        <button class="enter" type="button" onclick="">Learn More</button>
+        <a href="#" class="enter" type="button">Learn More</a>
     </div>
 </body>
 </html>

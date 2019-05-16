@@ -41,13 +41,22 @@ body {
 
 .enter {
     font-family: "Sketchalot";
-    font-size: 30px;
+    font-size: 24px;
     padding: 15px 25px;
     text-align: center;
     background-color: #1b1e21;
     color: aliceblue;
     cursor: pointer;
-    margin: auto;
+    border-radius: 12px;
+    border: 2px solid #0fac82;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+.enter:hover {
+    background-color: aliceblue;
+    color: #1b1e21;
+    border: 2px solid #0fac82;
 }
 
 p {
