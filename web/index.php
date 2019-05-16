@@ -12,7 +12,7 @@
             effectiveness.
         </p>
         <div class="button_style">
-            <a hre f="#" class="enter" type="button">Explore</a>
+            <a href="#" class="enter" type="button">Explore</a>
         </div>
     </div>
 </body>
