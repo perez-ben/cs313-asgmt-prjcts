@@ -3,14 +3,36 @@ body {
     margin: 20px;
     padding: 10px;
     border: 15px;
-  }
+    background-color: #2adfaa;
+}
+
+@font-face {
+    font-family: 'Clinton Bold';
+    src: url(ClintonBold.woff) format('woff');
+    font-weight: normal;
+    font-style: normal;
+} 
+
+@font-face {
+    font-family: 'Clinton Extra Bold';
+    src: url(ClintonExtraBold.woff) format('woff');
+    font-weight: normal;
+    font-style: normal;
+} 
+
+@font-face {
+    font-family: 'Clinton Semi Bold';
+    src: url(Clinton-semibold.woff) format('woff');
+    font-weight: normal;
+    font-style: normal;
+} 
 
 @font-face {
     font-family: 'Modern Serif Eroded';
     src: url(Modern-Serif-Eroded.woff) format('woff');
     font-weight: normal;
     font-style: normal;
-}
+} 
 
 @font-face {
     font-family: 'Sketchalot';
@@ -35,14 +57,10 @@ h1 {
     text-align: center;
 }
 
-body {
-    background-color: #2adfaa;
-}
-
 .enter {
     display: block;
     margin: auto;
-    max-width: 300px;
+    max-width: 2750px;
     font-family: "Sketchalot";
     font-size: 18px;
     padding: 15px 15px;
@@ -67,5 +85,5 @@ body {
 }
 
 p {
-    font-family: "Verdana","Arial","Helvetica",sans-serif;
+    font-family: "Clinton Semi Bold","Arial","Helvetica",sans-serif;
 }
