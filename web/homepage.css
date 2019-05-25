@@ -61,7 +61,7 @@ h1 {
     display: block;
     margin: auto;
     max-width: 275px;
-    font-family: "Clint Extra Bold";
+    font-family: "Sketchalot";
     font-size: 18px;
     padding: 15px 15px;
     text-align: center;
@@ -86,5 +86,7 @@ h1 {
 }
 
 p {
+    line-height: 1.6;
     font-family: "Clinton Semi Bold","Arial","Helvetica",sans-serif;
-}
+} 
+  
