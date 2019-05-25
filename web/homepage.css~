@@ -81,7 +81,7 @@ h1 {
     border: 2px solid #0fac82;
 }
 
-.butcton_style {
+.button_style {
     text-align: center;
 }
 
