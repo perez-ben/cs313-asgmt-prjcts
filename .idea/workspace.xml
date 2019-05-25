@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb030d2b-8e29-4268-8f63-6e06e707bf62" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/web/homepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/homepage.css" afterDir="false" />
-    </list>
+    <list default="true" id="cb030d2b-8e29-4268-8f63-6e06e707bf62" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +53,7 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="3862" />
+    <option name="x" value="1920" />
     <option name="y" value="294" />
     <option name="width" value="1400" />
     <option name="height" value="995" />
@@ -114,7 +112,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557971752506</updated>
-      <workItem from="1557971755425" duration="7549000" />
+      <workItem from="1557971755425" duration="7776000" />
     </task>
     <task id="LOCAL-00001" summary="adjusting button title, centering button by including it in a div, and changing font size">
       <created>1558037801205</created>
@@ -127,11 +125,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7549000" />
+    <option name="totallyTimeSpent" value="7776000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="3862" y="294" width="1400" height="995" extended-state="0" />
-    <editor active="true" />
+    <frame x="1920" y="294" width="1400" height="995" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496318" />
