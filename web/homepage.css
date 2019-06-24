@@ -61,10 +61,9 @@ h1 {
     display: block;
     margin: auto;
     max-width: 250px;
-    font-family: "Sketchalot";
+    font-family: "Sketchalot", sans-serif;
     font-size: 18px;
     padding: 10px 10px;
-    text-align: center;
     background-color: #1b1e21;
     color: aliceblue;
     cursor: pointer;
