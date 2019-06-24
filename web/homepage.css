@@ -80,6 +80,12 @@ h1 {
     border: 2px solid #0fac82;
 }
 
+.nav {
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    display: inline;
+}
 .button_style {
     text-align: center;
 }
