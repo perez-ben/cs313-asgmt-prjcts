@@ -1,0 +1,97 @@
+/*Basic*/
+* {
+    margin: 20px;
+    padding: 10px;
+    border: 15px;
+    background-color: #2adfaa;
+}
+
+@font-face {
+    font-family: 'Clinton Bold';
+    src: url(ClintonBold.woff) format('woff');
+    font-weight: normal;
+    font-style: normal;
+} 
+
+@font-face {
+    font-family: 'Clinton Extra Bold';
+    src: url(ClintonExtraBold.woff) format('woff');
+    font-weight: normal;
+    font-style: normal;
+} 
+
+@font-face {
+    font-family: 'Clinton Semi Bold';
+    src: url(Clinton-semibold.woff) format('woff');
+    font-weight: normal;
+    font-style: normal;
+} 
+
+@font-face {
+    font-family: 'Modern Serif Eroded';
+    src: url(Modern-Serif-Eroded.woff) format('woff');
+    font-weight: normal;
+    font-style: normal;
+} 
+
+@font-face {
+    font-family: 'Sketchalot';
+    src: url(Sketchalot.woff) format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+img {
+    display: block;
+    border-radius: 10px;
+    max-width: 70%;
+    margin-left: auto;
+    margin-right:auto;
+    height: auto;
+}
+
+h1 {
+    font-family: "Modern Serif Eroded", serif;
+    color: white;
+    font-size: 2.5vw;
+    text-align: center;
+}
+
+.enter {
+    display: block;
+    margin: auto;
+    max-width: 250px;
+    font-family: "Sketchalot", sans-serif;
+    font-size: 18px;
+    padding: 10px 10px;
+    background-color: #1b1e21;
+    color: aliceblue;
+    cursor: pointer;
+    border-radius: 12px;
+    border: 2px solid #0fac82;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    text-decoration: none;
+}
+
+.enter:hover {
+    background-color: aliceblue;
+    color: #1b1e21;
+    border: 2px solid #0fac82;
+}
+
+.nav {
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    display: inline;
+}
+.button_style {
+    text-align: center;
+}
+
+p {
+    line-height: 1.6;
+    font-family: "Clinton Semi Bold","Arial","Helvetica",sans-serif;
+} 
+  
