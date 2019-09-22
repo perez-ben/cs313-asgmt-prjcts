@@ -1,15 +1,8 @@
 <!DOCTYPE html>
 <html lang="en-US">
     <style>
-    <?php include 'homepage.css';
-    ?>
+    <?php include 'homepage.css'; ?>
     </style>
-    <head>
-        <meta charset="UTF-8">
-        <title>Movie Search</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <script src='home.js'></script>
-    </head>
     <body>
         <header>
             <div class="">
