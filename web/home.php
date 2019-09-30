@@ -1,26 +1,18 @@
 <!DOCTYPE html>
 <html lang="en-US">
     <link rel="stylesheet" href="homepage.css"; >
-    <head>
-        <meta charset="UTF-8">
-        <title>Movie Search</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <script src='home.js'></script>
-    </head>
     <body>
         <header>
-            <div class="">
-            <h1>Coursework and Projects</h1>
+            <div class="title">
+                <h1>Coursework and Projects</h1>
             </div>
-            <nav>
-                <ul class="nav">
-                    <li class="link"><a href="web_engineering/engineering_1.php">CS 213 Front End</a></li>
-                    <li class="link"><a href="web_engineering/engineering_2.php">CS 313 Back End</a></li>
-                    <li class="link"></li>
-                    <li class="link"></li>
-                    <li class="link"></li>
-                </ul>
-            </nav>
+            <div id="mySidenav" class="sidenav">
+                <a href="home.php" id="home">Home</a>
+                <a href="web_engineering/engineering_1.php" id="cs213">CS 213 Front-End</a>
+                <a href="web_engineering/engineering_2.php" id="cs313">CS 313 Back-End</a>
+                <a href="#" id="projects">Projects</a>
+                <a href="#" id="contact">Contact</a>
+            </div>
         </header>
 
             <div class="">
