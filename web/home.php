@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-US">
-    <style>
-    <?php include 'homepage.css';
-    ?>
-    </style>
+    <link rel="stylesheet" href="homepage.css"; >
     <head>
         <meta charset="UTF-8">
         <title>Movie Search</title>
@@ -17,7 +14,7 @@
             </div>
             <nav>
                 <ul class="nav">
-                    <li class="link"<a href="web_engineering/engineering_1.php">CS 213 Front End</a></li>
+                    <li class="link"><a href="web_engineering/engineering_1.php">CS 213 Front End</a></li>
                     <li class="link"><a href="web_engineering/engineering_2.php">CS 313 Back End</a></li>
                     <li class="link"></li>
                     <li class="link"></li>
