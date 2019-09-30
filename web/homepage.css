@@ -84,7 +84,7 @@ h1 {
 
 #mySidenav a {
 	position: absolute;
-	left: -80px;
+	left: -180px;
 	transition: 0.3s;
 	padding: 15px;
 	width: 200px;
@@ -112,6 +112,16 @@ h1 {
 #cs313 {
 	top: 140px;
 	background-color: #436436;
+}
+
+#projects {
+	top: 200px;
+	background-color: #E28413;
+}
+
+#contact {
+	top: 260px;
+	background-color: #1b1e21;
 }
 
 @media screen and (max-height: 450px) {
