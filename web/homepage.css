@@ -1,97 +1,135 @@
 /*Basic*/
+
 * {
-    margin: 20px;
-    padding: 10px;
-    border: 15px;
-    background-color: #2adfaa;
+	margin: 20px;
+	padding: 10px;
+	border: 15px;
+	background-color: #2adfaa;
 }
 
 @font-face {
-    font-family: 'Clinton Bold';
-    src: url(ClintonBold.woff) format('woff');
-    font-weight: normal;
-    font-style: normal;
-} 
+	font-family: 'Clinton Bold';
+	src: url(ClintonBold.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
 
 @font-face {
-    font-family: 'Clinton Extra Bold';
-    src: url(ClintonExtraBold.woff) format('woff');
-    font-weight: normal;
-    font-style: normal;
-} 
+	font-family: 'Clinton Extra Bold';
+	src: url(ClintonExtraBold.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
 
 @font-face {
-    font-family: 'Clinton Semi Bold';
-    src: url(Clinton-semibold.woff) format('woff');
-    font-weight: normal;
-    font-style: normal;
-} 
+	font-family: 'Clinton Semi Bold';
+	src: url(Clinton-semibold.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
 
 @font-face {
-    font-family: 'Modern Serif Eroded';
-    src: url(Modern-Serif-Eroded.woff) format('woff');
-    font-weight: normal;
-    font-style: normal;
-} 
+	font-family: 'Modern Serif Eroded';
+	src: url(Modern-Serif-Eroded.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
 
 @font-face {
-    font-family: 'Sketchalot';
-    src: url(Sketchalot.woff) format('woff');
-    font-weight: normal;
-    font-style: normal;
+	font-family: 'Sketchalot';
+	src: url(Sketchalot.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
 }
 
 img {
-    display: block;
-    border-radius: 10px;
-    max-width: 70%;
-    margin-left: auto;
-    margin-right:auto;
-    height: auto;
+	display: block;
+	border-radius: 10px;
+	max-width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+	height: auto;
 }
 
 h1 {
-    font-family: "Modern Serif Eroded", serif;
-    color: white;
-    font-size: 2.5vw;
-    text-align: center;
+	font-family: "Modern Serif Eroded", serif;
+	color: white;
+	font-size: 2.5vw;
+	text-align: center;
 }
 
 .enter {
-    display: block;
-    margin: auto;
-    max-width: 250px;
-    font-family: "Sketchalot", sans-serif;
-    font-size: 18px;
-    padding: 10px 10px;
-    background-color: #1b1e21;
-    color: aliceblue;
-    cursor: pointer;
-    border-radius: 12px;
-    border: 2px solid #0fac82;
-    -webkit-transition-duration: 0.4s; /* Safari */
-    transition-duration: 0.4s;
-    text-decoration: none;
+	display: block;
+	margin: auto;
+	max-width: 250px;
+	font-family: "Sketchalot", sans-serif;
+	font-size: 18px;
+	padding: 10px 10px;
+	background-color: #1b1e21;
+	color: aliceblue;
+	cursor: pointer;
+	border-radius: 12px;
+	border: 2px solid #0fac82;
+	-webkit-transition-duration: 0.4s;
+	/* Safari */
+	transition-duration: 0.4s;
+	text-decoration: none;
 }
 
 .enter:hover {
-    background-color: aliceblue;
-    color: #1b1e21;
-    border: 2px solid #0fac82;
+	background-color: aliceblue;
+	color: #1b1e21;
+	border: 2px solid #0fac82;
 }
 
-.nav {
-    list-style-type: none;
-    margin:0;
-    padding:0;
-    display: inline;
+.sidenav {
+	height: 100%;
+	width: 0;
+	position: fixed;
+	z-index: 1;
+	top: 0;
+	left: 0;
+	background-color: #111;
+	overflow-x: hidden;
+	transition: 0.5s;
+	padding-top: 60px;
 }
+
+.sidenav a {
+	padding: 8px 8px 8px 32px;
+	text-decoration: none;
+	font-size: 25px;
+	color: #818181;
+	display: block;
+	transition: 0.3s;
+}
+
+.sidenav a:hover {
+	color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+	position: absolute;
+	top: 0;
+	right: 25px;
+	font-size: 36px;
+	margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+	.sidenav {
+		padding-top: 15px;
+	}
+	.sidenav a {
+		font-size: 18px;
+	}
+}
+
 .button_style {
-    text-align: center;
+	text-align: center;
 }
 
 p {
-    line-height: 1.6;
-    font-family: "Clinton Semi Bold","Arial","Helvetica",sans-serif;
-} 
-  
+	line-height: 1.6;
+	font-family: "Clinton Semi Bold", "Arial", "Helvetica", sans-serif;
+}
