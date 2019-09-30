@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html lang="en-US">
-    <style>
+<head>
     <link rel="stylesheet" href="homepage.css";>
-    </style>
-    <body>
+</head>
+<body>
     <div id="mySidenav" class="sidenav">
-                <a href="home.php" id="home">Home</a>
-                <a href="web_engineering/engineering_1.php" id="cs213">CS 213 Front-End</a>
-                <a href="web_engineering/engineering_2.php" id="cs313">CS 313 Back-End</a>
-                <a href="#" id="projects">Projects</a>
-                <a href="#" id="contact">Contact</a>
-            </div>
+        <a href="home.php" id="home">Home</a>
+        <a href="web_engineering/engineering_1.php" id="cs213">CS 213 Front-End</a>
+        <a href="web_engineering/engineering_2.php" id="cs313">CS 313 Back-End</a>
+        <a href="#" id="projects">Projects</a>
+        <a href="#" id="contact">Contact</a>
+    </div>
 
     <div class="main_page">
         <h1>Software Engineer. Data. Solutions.</h1>
