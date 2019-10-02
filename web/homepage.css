@@ -82,22 +82,19 @@ h1 {
 	border: 2px solid #0fac82;
 }
 
-#mySidenav a {
-	position: absolute;
-	left: -180px;
+#myNav a {
+	float: left;
 	transition: 0.3s;
-	padding: 15px;
-	width: 200px;
+	padding: 14px 16px;
+	text-align: center;
 	text-decoration: none;
-	font-size: 16px;
+	font-size: 18px;
 	color: white;
-	border-radius: 0 5px 5px 0;
 	font-family: 'Modern Serif Eroded';
 }
 
-#mySidenav a:hover {
-	left: 0;
-}
+#myNav a:hover {
+	background-color}
 
 #home {
 	top: 20px;
