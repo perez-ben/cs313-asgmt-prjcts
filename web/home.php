@@ -8,7 +8,7 @@
         <div class="title">
             <h1>Coursework and Projects</h1>
         </div>
-        <div id="mySidenav" class="sidenav">
+        <div id="myNav" class="sidenav">
             <a href="home.php" id="home">Home</a>
             <a href="web_engineering/engineering_1.php" id="cs213">CS 213 Front-End</a>
             <a href="web_engineering/engineering_2.php" id="cs313">CS 313 Back-End</a>
