@@ -3,18 +3,32 @@
 $name = $_POST['name'];
 $email = $_POST['email'];
 $major = $_POST['input_major'];
-$continent = $_POST['input_continent'];
- = $_POST['input_na']
- = $_POST['input_sa']
- = $_POST['input_eur']
- = $_POST['input_asia']
- = $_POST['input_aus']
- = $_POST['input_afr']
- = $_POST['input_ant']
+$continents = [];
+
+if(!empty($_POST['ch'])){
+    // Loop to store and display values of individual checked checkbox.
+    foreach($_POST['ch'] as $selected){
+    echo $selected."</br>";
+}
+
+// $continents = array(
+//     $_POST['input_na'],
+//     $_POST['input_sa'],
+//     $_POST['input_eur'],
+//     $_POST['input_asia'],
+//     $_POST['input_aus'],
+//     $_POST['input_afr'],
+//     $_POST['input_ant']);
+
+
 
 echo 'Name: ' . $name . "\n";
 echo 'Email: ' . $email . "\n";
 echo 'Major: ' . $major . "\n";
+
+foreach ( $continents as $key => $value ) {
+    echo 'Continent: ' . $value . '\n';
+}
 ?>
 
 <!DOCTYPE html>
@@ -45,13 +59,13 @@ echo 'Major: ' . $major . "\n";
         
         <label for="radio_major">Major</label>
         <div id="radio_major"></div>
-            <input type="checkbox" value="" name="input_na">North America <br>
-            <input type="checkbox" value="" name="input_sa">South America <br>
-            <input type="checkbox" value="" name="input_eur">Europe <br>
-            <input type="checkbox" value="" name="input_asia">Asia <br>
-            <input type="checkbox" value="" name="input_aus">Australia <br>
-            <input type="checkbox" value="" name="input_afr">Africa <br>
-            <input type="checkbox" value="" name="input_ant">Antarctica <br>
+            <input type="checkbox" value="na" name="input_continent[]">North America <br>
+            <input type="checkbox" value="sa" name="input_continent[]">South America <br>
+            <input type="checkbox" value="eur" name="input_continent[]">Europe <br>
+            <input type="checkbox" value="asia" name="input_continent[]">Asia <br>
+            <input type="checkbox" value="aus" name="input_continent[]">Australia <br>
+            <input type="checkbox" value="afr" name="input_continent[]">Africa <br>
+            <input type="checkbox" value="ant" name="input_continent[]">Antarctica <br>
         </div>
     </form>
 </body>
