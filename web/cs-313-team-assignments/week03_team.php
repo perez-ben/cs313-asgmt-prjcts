@@ -3,19 +3,20 @@
 $name = $_POST['name'];
 $email = $_POST['email'];
 $major = $_POST['input_major'];
+$comments = $_POST['comments'];
 
 echo 'Name: ' . $name . "\n";
 echo 'Email: ' . $email . "\n";
 echo 'Major: ' . $major . "\n";
+echo 'Comments: ' . $comments . "\n";
 
 if( ! empty( $_POST['input_continent'] ) ) {
+    echo 'Continents visited: ';
     // Loop to store and display values of individual checked checkbox.
     foreach ( $_POST['input_continent'] as $selected ) {
-        echo 'Continents: ' . $selected."</br>";
+        echo $selected."</br>";
     }
 }
-
-
 
 ?>
 
