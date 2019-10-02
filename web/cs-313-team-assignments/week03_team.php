@@ -18,6 +18,7 @@ if( ! empty( $_POST['input_continent'] ) ) {
     }
 }
 
+$majors = ['Computer Science', 'Web Design and Development', 'Computer Information Technology', 'Computer Engineering'];
 ?>
 
 <!DOCTYPE html>
@@ -31,20 +32,39 @@ if( ! empty( $_POST['input_continent'] ) ) {
     <form action="" method="POST">
 
         <label for="input_name">Name</label>
-        <input id="input_name" type="text" name="name" placeholder="Name">
+        <input id="input_name" type="text" name="name" placeholder="Name"> <br>
 
         <label for="input_email">Email</label>
-        <input id="input_email" type="text" name="email" placeholder="Email">
+        <input id="input_email" type="text" name="email" placeholder="Email"> <br>
 
+        <?php 
+            if ( ! empty( $majors )) {
+        ?>
         <label for="radio_major">Major</label>
+        <div id="radio_major"></div>
+        <?php
+           foreach ( $majors as $major ) {
+                ?>
+                <input type="radio" name="input_major" value="<?php echo $major; ?>">
+                <?php 
+            }
+            ?>
+        </div>
+            <?php 
+        }
+        ?>
+
+        <!-- <label for="radio_major">Major</label>
         <div id="radio_major"></div>
             <input type="radio" name="input_major" value="cs"> Computer Science <br>
             <input type="radio" name="input_major" value="wdd"> Web Design and Development <br>
             <input type="radio" name="input_major" value="cit"> Computer Information Technology <br>
             <input type="radio" name="input_major" value="ce"> Computer Engineering
-        </div>
+        </div> <br> -->
 
-        <textarea name="comments" placeholder="Comments" id="comments" cols="30" rows="10"></textarea>
+        <br>
+
+        <textarea name="comments" placeholder="Comments" id="comments" cols="30" rows="10"></textarea> <br>
         
         <label for="checkbox_list">What continents have you been to?</label>
         <div id="checkbox_list"></div>
@@ -55,7 +75,7 @@ if( ! empty( $_POST['input_continent'] ) ) {
             <input type="checkbox" value="aus" name="input_continent[]">Australia <br>
             <input type="checkbox" value="afr" name="input_continent[]">Africa <br>
             <input type="checkbox" value="ant" name="input_continent[]">Antarctica <br>
-        </div>
+        </div> <br>
 
         <button type="submit">Submit</button>
     </form>
