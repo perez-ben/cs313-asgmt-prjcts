@@ -5,16 +5,16 @@ $email = $_POST['email'];
 $major = $_POST['input_major'];
 $comments = $_POST['comments'];
 
-echo 'Name: ' . $name . "\n";
-echo 'Email: ' . $email . "\n";
-echo 'Major: ' . $major . "\n";
-echo 'Comments: ' . $comments . "\n";
+echo 'Name: ' . $name . "<br>";
+echo 'Email: ' . $email . "<br>";
+echo 'Major: ' . $major . "<br>";
+echo 'Comments: ' . $comments . "<br>";
 
 if( ! empty( $_POST['input_continent'] ) ) {
     echo 'Continents visited: ';
     // Loop to store and display values of individual checked checkbox.
     foreach ( $_POST['input_continent'] as $selected ) {
-        echo $selected."</br>";
+        echo $selected."<br>";
     }
 }
 
@@ -37,32 +37,15 @@ $majors = ['Computer Science', 'Web Design and Development', 'Computer Informati
         <label for="input_email">Email</label>
         <input id="input_email" type="text" name="email" placeholder="Email"> <br>
 
-        <?php 
-            if ( ! empty( $majors )) {
-        ?>
+        <?php if ( ! empty( $majors )) { ?>
         <label for="radio_major">Major</label>
         <div id="radio_major"></div>
-        <?php
-           foreach ( $majors as $major ) {
-                ?>
-                <input type="radio" name="input_major" value="<?php echo $major; ?>">
-                <?php 
-            }
-            ?>
+        <?php foreach ( $majors as $major ) { ?>
+            <input type="radio" name="input_major" value="<?php echo $major; ?>"><?php echo $major; ?><br>
+        <?php } ?>
         </div>
-            <?php 
-        }
-        ?>
-
-        <!-- <label for="radio_major">Major</label>
-        <div id="radio_major"></div>
-            <input type="radio" name="input_major" value="cs"> Computer Science <br>
-            <input type="radio" name="input_major" value="wdd"> Web Design and Development <br>
-            <input type="radio" name="input_major" value="cit"> Computer Information Technology <br>
-            <input type="radio" name="input_major" value="ce"> Computer Engineering
-        </div> <br> -->
-
         <br>
+        <?php } ?>
 
         <textarea name="comments" placeholder="Comments" id="comments" cols="30" rows="10"></textarea> <br>
         
