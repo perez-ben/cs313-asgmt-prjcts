@@ -6,11 +6,12 @@
 </head>
 <body>
     <div id="myNav" class="topNav">
-        <a href="index.php" id="home">Home</a>
-        <a href="web_engineering/engineering_1.php" id="cs213">CS 213 Front-End</a>
-        <a href="web_engineering/engineering_2.php" id="cs313">CS 313 Back-End</a>
-        <a href="#" id="projects">Projects</a>
-        <a href="#" id="contact">Contact</a>
+        <ul>
+            <li><a href="index.php" id="home">Home</a></li>
+            <li><a href="web_engineering/engineering_1.php" id="cs213">CS 213 Front-End</a></li>
+            <li><a href="web_engineering/engineering_2.php" id="cs313">CS 313 Back-End</a></li>
+            <li><a href="#" id="projects">Projects</a></li>
+            <li><a href="#" id="contact">Contact</a></li>
     </div>
 
     <div class="main_page">
