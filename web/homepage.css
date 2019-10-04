@@ -84,6 +84,7 @@ h1 {
 
 #myNav a {
 	float: left;
+	display: block;
 	transition: 0.3s;
 	padding: 14px 16px;
 	text-align: center;
