@@ -58,30 +58,6 @@ h1 {
     text-align: center;
 }
 
-.enter {
-    display: block;
-    margin: auto;
-    max-width: 250px;
-    font-family: "Sketchalot", sans-serif;
-    font-size: 18px;
-    padding: 10px 10px;
-    background-color: #1b1e21;
-    color: aliceblue;
-    cursor: pointer;
-    border-radius: 12px;
-    border: 2px solid #0fac82;
-    -webkit-transition-duration: 0.4s;
-    /* Safari */
-    transition-duration: 0.4s;
-    text-decoration: none;
-}
-
-.enter:hover {
-    background-color: aliceblue;
-    color: #1b1e21;
-    border: 2px solid #0fac82;
-}
-
 .myNav a {
     float: left;
     display: block;
@@ -94,7 +70,7 @@ h1 {
     font-family: 'Modern Serif Eroded', Times, serif;
 }
 
-#myNav a:hover {
+.myNav a:hover {
     background-color: blanchedalmond;
 }
 
@@ -121,15 +97,6 @@ h1 {
 #contact {
     top: 260px;
     background-color: #1b1e21;
-}
-
-@media screen and (max-height: 450px) {
-    .sidenav {
-        padding-top: 15px;
-    }
-    .sidenav a {
-        font-size: 18px;
-    }
 }
 
 .button_style {
