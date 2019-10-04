@@ -9,7 +9,12 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb030d2b-8e29-4268-8f63-6e06e707bf62" name="Default Changelist" comment="" />
+    <list default="true" id="cb030d2b-8e29-4268-8f63-6e06e707bf62" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/homepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/homepage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +35,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/homepage.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="88" column="23" lean-forward="true" selection-start-line="88" selection-start-column="23" selection-end-line="88" selection-end-column="23" />
+            <state relative-caret-position="1275">
+              <caret line="85" column="16" lean-forward="true" selection-start-line="85" selection-start-column="16" selection-end-line="85" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -39,8 +44,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+            <state relative-caret-position="193">
+              <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -71,15 +76,15 @@
         <option value="$PROJECT_DIR$/web/hello.html" />
         <option value="$PROJECT_DIR$/web/web_engineering/engineering_2.php" />
         <option value="$PROJECT_DIR$/web/home.php" />
-        <option value="$PROJECT_DIR$/web/index.php" />
         <option value="$PROJECT_DIR$/web/homepage.css" />
+        <option value="$PROJECT_DIR$/web/index.php" />
       </list>
     </option>
   </component>
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration">
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3">
     <include_path>
       <path value="$PROJECT_DIR$/web" />
     </include_path>
@@ -127,7 +132,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -140,6 +145,16 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/cs313-asgmt-prjcts/web/index.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.php" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -158,6 +173,7 @@
       <workItem from="1562055703943" duration="51000" />
       <workItem from="1569470503707" duration="532000" />
       <workItem from="1569985666630" duration="3059000" />
+      <workItem from="1570153146967" duration="2845000" />
     </task>
     <task id="LOCAL-00001" summary="adjusting button title, centering button by including it in a div, and changing font size">
       <created>1558037801205</created>
@@ -166,29 +182,37 @@
       <option name="project" value="LOCAL" />
       <updated>1558037801205</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="removing home.php. already have index.php">
+      <created>1570153246431</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1570153246431</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18267000" />
+    <option name="totallyTimeSpent" value="21112000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="726" y="247" width="1154" height="767" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23021583" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23381294" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="PHP-CGI Server" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3288889" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3288889" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -201,7 +225,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adjusting button title, centering button by including it in a div, and changing font size" />
-    <option name="LAST_COMMIT_MESSAGE" value="adjusting button title, centering button by including it in a div, and changing font size" />
+    <MESSAGE value="removing home.php. already have index.php" />
+    <option name="LAST_COMMIT_MESSAGE" value="removing home.php. already have index.php" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/web/web_engineering/engineering_1.php">
@@ -214,8 +239,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/footer.php">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/web/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="20" selection-end-line="23" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/web_engineering/engineering_2.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -224,24 +253,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/home.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" selection-start-line="20" selection-end-line="23" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/web/footer.php">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/web/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+        <state relative-caret-position="193">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/homepage.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="88" column="23" lean-forward="true" selection-start-line="88" selection-start-column="23" selection-end-line="88" selection-end-column="23" />
+        <state relative-caret-position="1275">
+          <caret line="85" column="16" lean-forward="true" selection-start-line="85" selection-start-column="16" selection-end-line="85" selection-end-column="16" />
         </state>
       </provider>
     </entry>

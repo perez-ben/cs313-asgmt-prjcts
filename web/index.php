@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
-    <link rel="stylesheet" href="homepage.css";>
+    <title>Ben's Homepage</title>
+    <link rel="stylesheet" href="homepage.css">
 </head>
 <body>
     <div id="myNav" class="topNav">
@@ -18,9 +19,9 @@
             looking to improve and innovate higher education technology to add
             relevant data to curriculum analytics and revolutionize institutional
             effectiveness.
-        <p>I have done my best to organize my work to demonstrate my skills and knowledge.
+            I have done my best to organize my work to demonstrate my skills and knowledge.
             Please explore the site. My goal has been to incorporate everything into one final
-            project.</p>
+            project.
         </p>
     </div>
 </body>

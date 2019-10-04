@@ -91,7 +91,7 @@ h1 {
 	text-decoration: none;
 	font-size: 18px;
 	color: white;
-	font-family: 'Modern Serif Eroded', "Times New Roman", Times;
+	font-family: 'Modern Serif Eroded', Times, serif;
 }
 
 #myNav a:hover {
