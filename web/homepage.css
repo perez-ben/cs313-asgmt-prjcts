@@ -83,27 +83,22 @@ li a:hover {
 }
 
 #home {
-    top: 20px;
     background-color: #D45113;
 }
 
 #cs213 {
-    top: 80px;
     background-color: #054A91;
 }
 
 #cs313 {
-    top: 140px;
     background-color: #436436;
 }
 
 #projects {
-    top: 200px;
     background-color: #E28413;
 }
 
 #contact {
-    top: 260px;
     background-color: #1b1e21;
 }
 
