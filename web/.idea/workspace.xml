@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="758192d6-5415-4df7-bac9-eb2be13e40bd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs-313-team-assignments/week03_team.php" beforeDir="false" afterPath="$PROJECT_DIR$/cs-313-team-assignments/week03_team.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,8 +63,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.1" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="68" />
-    <option name="y" value="23" />
+    <option name="x" value="2758" />
+    <option name="y" value="340" />
     <option name="width" value="951" />
     <option name="height" value="777" />
   </component>
@@ -153,7 +152,7 @@
     <option name="totallyTimeSpent" value="6387000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="68" y="23" width="951" height="777" extended-state="0" />
+    <frame x="2758" y="340" width="951" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34763476" />
