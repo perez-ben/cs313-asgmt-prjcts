@@ -20,11 +20,9 @@
                     <a href="#" id="cs213">Week 7</a>
                 </div>           
             </div>
-
-            <li><a href="web_engineering/engineering_2.php" id="cs313">CS 313 Back-End</a></li>
-            <li><a href="#" id="projects">Projects</a></li>
-            <li><a href="#" id="contact">Contact</a></li>
-        </ul>
+        <a href="web_engineering/engineering_2.php" id="cs313">CS 313 Back-End</a>
+        <a href="#" id="projects">Projects</a>
+        <a href="#" id="contact">Contact</a>
     </div>
 
     <div class="main_page">
