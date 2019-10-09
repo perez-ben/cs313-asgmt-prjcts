@@ -82,6 +82,23 @@ li a:hover {
     background-color: blanchedalmond;
 }
 
+/*dropdown container*/
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+/*dropdown button*/
+.dropdown .dropbtn {
+    font-size: 16px;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
 #home {
     background-color: #D45113;
 }
