@@ -8,7 +8,7 @@
     <div id="myNav" class="topNav">
         <a href="index.php" id="home">Home</a>
             <div class ="dropdown">
-                <button class="dropbtn">Web Engineering I (CS 213)
+                <button class="dropbtn">Web Engineering I
                     <i class="fa fa-caret-down"></i>
                 </button>
                  <div class="dropdown-content">
@@ -18,9 +18,19 @@
                     <a href="#" id="cs213">Week 5</a>
                     <a href="#" id="cs213">Week 6</a>
                     <a href="#" id="cs213">Week 7</a>
-                </div>           
+                </div>
             </div>
-        <a href="web_engineering/engineering_2.php" id="cs313">CS 313 Back-End</a>
+            <button class="dropbtn">Web Engineering II
+                    <i class="fa fa-caret-down"></i>
+                </button>
+        <div class="dropdown-content">
+                    <a href="#" id="cs213">Week 2</a>
+                    <a href="#" id="cs213">Week 3</a>
+                    <a href="#" id="cs213">Week 4</a>
+                    <a href="#" id="cs213">Week 5</a>
+                    <a href="#" id="cs213">Week 6</a>
+                    <a href="#" id="cs213">Week 7</a>
+                </div>
         <a href="#" id="projects">Projects</a>
         <a href="#" id="contact">Contact</a>
     </div>
