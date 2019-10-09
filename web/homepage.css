@@ -117,10 +117,11 @@ h1 {
 
 .dropdown:hover .dropdown-content {
     display: block;
-    background-color: #436436;
-
 }
 
+.navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: #436436;
+}
 /*#home {
     background-color: #D45113;
 }
