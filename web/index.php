@@ -6,19 +6,18 @@
 </head>
 <body>
     <div id="myNav" class="topNav">
-        <ul>
-            <li><a href="index.php" id="home">Home</a></li>
+        <a href="index.php" id="home">Home</a>
             <div class ="dropdown">
                 <button class="dropbtn">Web Engineering I (CS 213)
                     <i class="fa fa-caret-down"></i>
                 </button>
                  <div class="dropdown-content">
-                    <li><a href="#" id="cs213">Week 2</a></li>
-                    <li><a href="#" id="cs213">Week 3</a></li>
-                    <li><a href="#" id="cs213">Week 4</a></li>
-                    <li><a href="#" id="cs213">Week 5</a></li>
-                    <li><a href="#" id="cs213">Week 6</a></li>
-                    <li><a href="#" id="cs213">Week 7</a></li>
+                    <a href="#" id="cs213">Week 2</a>
+                    <a href="#" id="cs213">Week 3</a>
+                    <a href="#" id="cs213">Week 4</a>
+                    <a href="#" id="cs213">Week 5</a>
+                    <a href="#" id="cs213">Week 6</a>
+                    <a href="#" id="cs213">Week 7</a>
                 </div>           
             </div>
 
