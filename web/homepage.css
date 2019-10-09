@@ -61,7 +61,7 @@ h1 {
 .topNav {
     overflow: hidden;
     background-color: #D45113;
-    font-family: "Modern Serif Eroded", Arial;
+    font-family: "Clinton Semi Bold", Arial;
 }
 
 /* Links inside the navigation bar */
@@ -75,7 +75,7 @@ h1 {
 }
 
 .topNav a:hover {
-    background-color: blanchedalmond;
+    background-color: #436436;
 }
 
 /*dropdown container*/
