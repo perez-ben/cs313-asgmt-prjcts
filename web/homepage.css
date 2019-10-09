@@ -82,6 +82,7 @@ h1 {
 .dropdown {
     float: left;
     overflow: hidden;
+    background-color: #436436;
 }
 
 /*dropdown button*/
