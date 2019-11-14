@@ -19,11 +19,10 @@
                     <a href="#" id="cs213">Week 6</a>
                     <a href="#" id="cs213">Week 7</a>
                 </div>
-            </div>
-            <button class="dropbtn">Web Engineering II
+                <button class="dropbtn">Web Engineering II
                     <i class="fa fa-caret-down"></i>
                 </button>
-        <div class="dropdown-content">
+                <div class="dropdown-content">
                     <a href="#" id="cs213">Week 2</a>
                     <a href="#" id="cs213">Week 3</a>
                     <a href="#" id="cs213">Week 4</a>
@@ -31,6 +30,7 @@
                     <a href="#" id="cs213">Week 6</a>
                     <a href="#" id="cs213">Week 7</a>
                 </div>
+            </div>
         <a href="#" id="projects">Projects</a>
         <a href="#" id="contact">Contact</a>
     </div>
