@@ -22,7 +22,7 @@
                 <button class="dropbtn">Web Engineering II
                     <i class="fa fa-caret-down"></i>
                 </button>
-                <div class="dropdown-content">
+                <div class="dropdown-content2">
                     <a href="#" id="cs313">Week 2</a>
                     <a href="#" id="cs313">Week 3</a>
                     <a href="#" id="cs313">Week 4</a>
