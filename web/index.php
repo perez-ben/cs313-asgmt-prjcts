@@ -23,12 +23,12 @@
                     <i class="fa fa-caret-down"></i>
                 </button>
                 <div class="dropdown-content">
-                    <a href="#" id="cs213">Week 2</a>
-                    <a href="#" id="cs213">Week 3</a>
-                    <a href="#" id="cs213">Week 4</a>
-                    <a href="#" id="cs213">Week 5</a>
-                    <a href="#" id="cs213">Week 6</a>
-                    <a href="#" id="cs213">Week 7</a>
+                    <a href="#" id="cs313">Week 2</a>
+                    <a href="#" id="cs313">Week 3</a>
+                    <a href="#" id="cs313">Week 4</a>
+                    <a href="#" id="cs313">Week 5</a>
+                    <a href="#" id="cs313">Week 6</a>
+                    <a href="#" id="cs313">Week 7</a>
                 </div>
             </div>
         <a href="#" id="projects">Projects</a>
