@@ -25,7 +25,7 @@
                 <i class="fa fa-caret-down"></i>
             </button>
             <div class="dropdown-content">
-                <a href="#" id="cs313">Week 2</a>
+                <a href="cs313/week02.html" id="cs313">Week 2</a>
                 <a href="#" id="cs313">Week 3</a>
                 <a href="#" id="cs313">Week 4</a>
                 <a href="#" id="cs313">Week 5</a>
