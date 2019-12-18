@@ -1,5 +1,6 @@
-<?php include('head.php');?>
-<?php include('navbar.php')?>
+<?php $href = 'homepage.css'; ?>
+<?php include('head.php'); ?>
+<?php include('navbar.php'); ?>
 <body>
     <div class="main_page">
         <h1>Software Engineer. Data. Solutions.</h1>
@@ -10,4 +11,4 @@
         Please explore the site. My goal has been to incorporate everything into one final project.
         </p>
     </div>
-<?php include('footer.php');?>
+<?php include('footer.php'); ?>
