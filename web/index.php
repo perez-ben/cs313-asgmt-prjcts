@@ -5,7 +5,7 @@
 <body>
     <div class="main_page">
         <h1>Software Engineer. Data. Solutions.</h1>
-        <p> I love my job and I love working in higher education. I am always looking to improve and innovate higher education technology to add
+        <p class="home"> I love my job and I love working in higher education. I am always looking to improve and innovate higher education technology to add
         relevant data to curriculum analytics and revolutionize institutional
         effectiveness.<br>
         I have done my best to organize my work to demonstrate my skills and knowledge.<br>
