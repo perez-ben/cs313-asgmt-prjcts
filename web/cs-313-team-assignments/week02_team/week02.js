@@ -1,3 +1,3 @@
 function click() {
-    document.getElementById("clicked").innerHTML = "Clicked!";
+    document.getElementById("click").innerHTML = "Clicked!";
 }
