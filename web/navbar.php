@@ -6,7 +6,7 @@
                 <i class="fa fa-caret-down"></i>
             </button>
             <div class="dropdown-content">
-                <a href="cs313/week02.html" id="cs213">Week 2</a>
+                <a href="cs213/week02.html" id="cs213">Week 2</a>
                 <a href="#" id="cs213">Week 3</a>
                 <a href="#" id="cs213">Week 4</a>
                 <a href="#" id="cs213">Week 5</a>
@@ -19,8 +19,8 @@
                 <i class="fa fa-caret-down"></i>
             </button>
             <div class="dropdown-content">
-                <a href="cs313/week02.html" id="cs313">Week 2</a>
-                <a href="cs313-team/02_team/week02_team.html">W02 Team</a>
+                <a href="cs313/week02.php" id="cs313">Week 2</a>
+                <a href="cs313-team/02_team/week02_team.php">W02 Team</a>
                 <a href="#" id="cs313">Week 3</a>
                 <a href="#" id="cs313">Week 4</a>
                 <a href="#" id="cs313">Week 5</a>
