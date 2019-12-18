@@ -1,10 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <link rel="stylesheet" href="week02.css">
-    <title>Week 02 Team Assignment</title>
-</head>
+<?php $title = "Week 02 Team Assignment"; ?>
+<?php $href = 'week02.css'; ?>
+<?php include('head.php'); ?>
+<?php include('navbar.php'); ?>
 
 <body>
     <div class="section1">
@@ -16,9 +13,10 @@
     <div class="section3">
         <p>The five boxing wizards jump quickly. Jackdaws love my big sphinx of quartz. Pack my box with five dozen liquor jugs.</p>
     </div>
-    <script src="week02.js"></script>
     <button onclick="click()">Click Me!</button>
     <p id="click"></p>
+   
+    <script src="week02.js"></script>
 
 </body>
 
