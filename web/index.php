@@ -1,4 +1,5 @@
 <?php $href = 'homepage.css'; ?>
+<?php $title = "Ben's Homepage"; ?>
 <?php include('head.php'); ?>
 <?php include('navbar.php'); ?>
 <body>
